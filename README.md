@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zainab ahmed275
-- I’m interested in coding , photogrphing , archaeologia
--  , aviation , chess and music
+- I’m interested in coding , photogrphing , aviation 
+- , archaeologia , chess and music
 - 🌱 I’m currently learning HTML , CSS & JS
 - 📫 How to reach me ...
 MY instagram : zainab___ad
